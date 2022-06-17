@@ -5,7 +5,7 @@
 ### 🧑‍🎓 I'm currently studying data modeling, statistics for data science and Python for data science.
 <div>
 <a href="https://github.com/MarcosMartiinss">
-<img height="180em" width="460em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMartiinss&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" width="560em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMartiinss&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=MarcosMartiinss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
