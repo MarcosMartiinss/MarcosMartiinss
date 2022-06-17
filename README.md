@@ -3,11 +3,7 @@
 # 👋 Hello! Welcome to my GitHub profile.
 ### 🙎‍♂️ My name is marcos martins, I'm 25 years old and at the moment I'm studying data science.
 ### 🧑‍🎓 I'm currently studying data modeling, statistics for data science and Python for data science.
-<div align="center" dir="auto">
-  <a href="https://github.com/MarcosMartiinss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosMartiinss&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMartiinss&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
-</a></div>
+
   
 # 👨‍💻 Tools and Technology
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "40" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width = "40" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width = "40" height = "40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width = "40" heigth = "40"/>
