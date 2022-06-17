@@ -5,8 +5,8 @@
 ### 🧑‍🎓 I'm currently studying data modeling, statistics for data science and Python for data science.
 <div>
 <a href="https://github.com/MarcosMartiinss">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?MarcosMartiinss&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?MarcosMartiinss-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMartiinss&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosMartiinss-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 # 👨‍💻 Tools and Technology
