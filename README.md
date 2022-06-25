@@ -2,7 +2,7 @@
 
 # 👋 Olá! Bem vindo ao meu perfil no Github
 ### 🙎‍♂️ Meu nome é Marcos Martins, eu tenho 25 anos e sou estudande de Ciência de Dados.
-### 🧑‍🎓 No momento estou estudando modelagem de dados, Estatística para Ciência de Dados e Python para Ciência de Dados
+### 🧑‍🎓 No momento estou estudando modelagem de dados, Estatística para Ciência de Dados e Python para Ciência de Dados.
 
   
 # 👨‍💻 Ferramentas e Tecnologia
