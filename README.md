@@ -1,4 +1,4 @@
-<img align="right" width="200px" style="margin-top:-20px" src="https://i.ibb.co/gR8CxR6/1654218366792-png.png" alt="1654218366792-png" border="0">
+
 
 # 👋 Olá! Bem vindo ao meu perfil no Github
 ### 🙎‍♂️ Meu nome é Marcos Martins, eu tenho 25 anos e sou estudande de Ciência de Dados.
